@@ -1,30 +1,18 @@
-# -app-cultural-confins
-Aplicativo Android em Kotlin para mapear e divulgar iniciativas culturais de Confins - MG
 # App Cultural Confins
 
-Este projeto faz parte do Trabalho de Extensão da graduação em Análise e Desenvolvimento de Sistemas – Estácio (2025), com foco em tecnologias para cultura.
+Este é um aplicativo React Native criado para mapear e divulgar os agentes culturais de Confins-MG.
 
-## Objetivo
-Desenvolver um aplicativo Android em Kotlin para mapear, divulgar e conectar artistas, coletivos e espaços culturais da cidade de Confins - MG.
+## Tecnologias
 
-## Justificativa
-A ausência de uma ferramenta local digital compromete a visibilidade das iniciativas culturais. O app busca fortalecer a articulação em rede e facilitar a comunicação entre os agentes culturais.
+- React Native
+- Expo
+- AsyncStorage
+- APIs REST
 
-##  Tecnologias
-- Kotlin (Android)
-- Firebase (Auth + Firestore)
-- Figma (protótipo)
-- Google Forms (validação com usuários)
+## Status
 
-##  Estrutura
-- `/docs`: prints, entrevistas e cronogramas
-- `/design`: protótipos e identidade visual
-- `/app`: código-fonte (a ser iniciado)
-- `/relatorios`: resultados e evidências
-## Status do Projeto
- **Início:** Junho de 2025  
- **Situação atual:** Em desenvolvimento (etapa de modelagem e coleta de dados)  
-**Próxima etapa:** Protótipo funcional com cadastro e listagem
+📌 Em desenvolvimento – Semana 1 concluída
+
 
 
 ##  Autora
