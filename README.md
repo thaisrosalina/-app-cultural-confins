@@ -21,10 +21,11 @@ A ausência de uma ferramenta local digital compromete a visibilidade das inicia
 - `/design`: protótipos e identidade visual
 - `/app`: código-fonte (a ser iniciado)
 - `/relatorios`: resultados e evidências
+## Status do Projeto
+ **Início:** Junho de 2025  
+ **Situação atual:** Em desenvolvimento (etapa de modelagem e coleta de dados)  
+**Próxima etapa:** Protótipo funcional com cadastro e listagem
 
-##  Status
-Etapa atual: Levantamento de requisitos e estruturação de protótipo  
-Previsão de entrega: [coloque a data final do trabalho de extensão]
 
 ##  Autora
 *Thais Oliveira* – produtora cultural e estudante de ADS – Estácio  
